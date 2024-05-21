@@ -1,0 +1,5 @@
+first you have to download the few libaries 
+pip install numpy
+pip install mediapipe
+pip install opencv-python
+this libaries download in terminal of your complier
